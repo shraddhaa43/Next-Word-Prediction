@@ -1,4 +1,4 @@
-# Next-Word-Prediction in NLP
+# Next-Word-Prediction-in-NLP
 
 Welcome to the NLP-Next-Word-Prediction repository! This comprehensive project is dedicated to advancing the field of Natural Language Processing (NLP) through the development of a sophisticated machine learning model for predicting the next word in a given text sequence.
 The heart of the project lies in designing a powerful neural network architecture capable of understanding the intricate relationships between words in a text sequence. 
